@@ -11,4 +11,5 @@ Oppgave 1
   - Faktisk Ankomst
   
  Pia
+  - Antall turer fordelt på kjøreretninger
   - 
