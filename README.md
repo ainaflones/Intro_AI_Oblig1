@@ -9,5 +9,6 @@ Oppgave 1
  Aina
   - Planlagt Ankomst
   - Faktisk Ankomst
+  
  Pia
   - 
