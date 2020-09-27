@@ -7,9 +7,9 @@ Oppgave 1
   2. Passasjerer Ombord
 
  Aina
-  - Planlagt Ankomst
-  - Faktisk Ankomst
+  3. Planlagt Ankomst
+  4. Faktisk Ankomst
   
  Pia
-  - Antall turer fordelt på kjøreretninger
-  - 
+  5. Antall turer fordelt i kommunene
+  6.  
