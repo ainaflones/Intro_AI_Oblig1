@@ -14,4 +14,4 @@ Oppgave 1
   
  Pia
   5. Antall turer fordelt i kommunene
-  6.  
+  6.
