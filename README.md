@@ -2,11 +2,12 @@ Obligatorisk innlevering i Introduksjon til AI.
 
 Oppgave 1 
 Valgte features:
-Majdi
+. Majdi
   1. Dato
   2. Passasjerer Ombord
-Aina
+
+. Aina
   - Planlagt Ankomst
   - Faktisk Ankomst
-Pia
+. Pia
   - 
