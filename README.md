@@ -3,15 +3,15 @@ Obligatorisk innlevering i Introduksjon til AI.
 Oppgave 1 
  Valgte features:
  Majdi
-  1. Dato
-  2. Passasjerer Ombord
+ - Dato
+ - Passasjerer Ombord
  
  
  Aina
-  3. Planlagt Ankomst
-  4. Faktisk Ankomst
+ - Planlagt Ankomst
+ - Faktisk Ankomst
   
   
  Pia
-  5. Antall turer fordelt i kommunene
-  6. Områder fordelt på linjeretninger
+ - Antall turer fordelt i kommunene
+ - Områder fordelt på linjeretninger
