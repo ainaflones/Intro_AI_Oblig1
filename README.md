@@ -14,4 +14,4 @@ Oppgave 1
   
  Pia
  - Antall turer fordelt i kommunene
- - Områder fordelt på linjeretninger
+ - Prosent av turer i de forskjellige områdene
