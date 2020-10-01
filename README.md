@@ -1,3 +1,9 @@
+Vi er en gruppe som består av 3 studenter:
+1- Majdi Omar Alali (studentnr.: s346421)
+
+
+
+
 Obligatorisk innlevering i Introduksjon til AI. 
 
 Oppgave 1 
