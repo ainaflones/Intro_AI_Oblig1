@@ -1,5 +1,6 @@
 Vi er en gruppe som består av 3 studenter:
-1- Majdi Omar Alali (studentnr.: s346421)
+ 1 - Majdi Omar Alali (studentnr.: s346421)
+ 2. - Pia Karoline Aamodt (studentnr.: s333976)
 
 
 
